@@ -1,6 +1,3 @@
-متوجه شدم! بر اساس کدی که ارائه دادید، در ادامه یک README مناسب برای پروژه‌تان آماده کرده‌ام:
-
-```markdown
 # K-Nearest Neighbors on Iris Dataset
 
 ## Overview
@@ -106,9 +103,3 @@ This project demonstrates the implementation of the K-Nearest Neighbors algorith
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### نکات:
-- می‌توانید مسیرهای فایل را به مسیرهای واقعی خود تغییر دهید.
-- اگر نمودارها یا تصاویری دارید، می‌توانید در بخش Visualization اضافه کنید.
-- هر قسمتی که نیاز به تغییر دارد، می‌توانید به سلیقه خود ویرایش کنید!
