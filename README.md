@@ -100,6 +100,3 @@ Accuracy: 90.00%
 
 ## Conclusion
 This project demonstrates the implementation of the K-Nearest Neighbors algorithm on the Iris dataset. The achieved accuracy indicates a strong performance in classifying Iris species based on petal dimensions.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
