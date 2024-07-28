@@ -74,10 +74,6 @@ The implementation follows these steps:
     ```
 
 ## Accuracy Calculation
-To evaluate the model's performance, we calculate the accuracy as follows:
-
-\[ \text{Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}} \]
-
 ### Code for Accuracy Calculation:
 ```python
 accuracy = accuracy_score(true_labels, predicted_labels)
@@ -85,12 +81,9 @@ print(f'Accuracy: {accuracy:.2%}')
 ```
 
 ## Visualization
-The results are visualized using a scatter plot, where each point represents a test sample, and the predicted species are marked distinctly.
+Here is the scatter plot visualizing the predicted species of Iris flowers based on petal dimensions:
 
-### Visualization Code:
-```python
-# Visualization code as provided
-```
+![Visualization of Iris Species](images/iris_visualization.png)
 
 ## Results
 The final accuracy of the KNN model on the test data is:
